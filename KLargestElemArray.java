@@ -10,8 +10,7 @@ class KLargestElemArray {
         }
         int k = scn.nextInt();
 
-        // PriorityQueue<Integer> pq = new
-        // PriorityQueue<Integer>(Collections.reverseOrder());
+        // PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
 
         PriorityQueue<Integer> pq1 = new PriorityQueue<Integer>();
 
